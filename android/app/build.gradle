@@ -102,7 +102,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.rnredux"
+        applicationId "com.rnapp_mgr_01"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

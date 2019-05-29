@@ -1,4 +1,4 @@
-package com.rnredux;
+package com.rnapp_mgr_01;
 
 import android.app.Application;
 
